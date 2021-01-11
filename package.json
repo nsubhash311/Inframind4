@@ -1,0 +1,14 @@
+{
+  "name": "inframind",
+  "version": "1.0.0",
+  "description": "disease-prediction, health-monitoring",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Subhash Nandhakumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
